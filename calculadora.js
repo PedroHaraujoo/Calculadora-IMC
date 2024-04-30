@@ -1,6 +1,6 @@
 function calcularIMC(){
     var altura = document.getElementById("altura").value;
-    var peso = doument.getElementById("peso").value;
+    var peso = document.getElementById("peso").value;
 
     console.log(altura);
     console.log(peso);
